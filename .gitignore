@@ -27,3 +27,4 @@ secrets
 tmp
 
 __pycache__
+.gradio
