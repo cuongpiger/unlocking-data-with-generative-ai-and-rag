@@ -6,3 +6,5 @@ chromadb
 langchain
 beautifulsoup4
 langchain-ollama
+gradio
+ipywidgets
