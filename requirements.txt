@@ -8,3 +8,7 @@ beautifulsoup4
 langchain-ollama
 gradio
 ipywidgets
+gensim
+transformers
+torch
+scikit-learn
