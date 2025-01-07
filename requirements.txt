@@ -12,3 +12,6 @@ gensim
 transformers
 torch
 scikit-learn
+rank_bm25
+PyPDF2
+sentence-transformers
